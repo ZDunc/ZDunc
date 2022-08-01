@@ -11,11 +11,11 @@
 </h5>
 <br>
 <p align="center">
-  Hello! My name is Zach Duncan, a software engineer based in New York, NY.
+  Hello! My name is Zach Duncan. I am a software engineer based in New York, NY.
   <br>
   🎓 Graduated from Florida State University with a Bachelors of Science in Computer Science/ Cyber Criminology
   <br>
-  📫 Contact information: <a href="mailto: zacharyduncan@gmail.com">zacharyduncan@gmail.com</a>
+  📫 To reach me: <a href="mailto: zacharyduncan@gmail.com">zacharyduncan@gmail.com</a>
 </p>
 
 <hr>
