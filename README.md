@@ -4,13 +4,13 @@
 
 </h5>
 <br>
-<p align="center">
+<p align="lect">
   Hello! My name is Zach Duncan. I am a software engineer based in New York, NY.
-  <br align="left">
+  <br>
     😄 Pronouns: He/Him
-  <br align="left">
+  <br>
     🎓 I graduated from Florida State University with a Bachelors of Science in Computer Science/ Cyber Criminology
-  <br align="left">
+  <br>
     📫 E-mail: <a href="mailto: zacharyduncan@gmail.com">zacharyduncan@gmail.com</a>
 </p>
 
