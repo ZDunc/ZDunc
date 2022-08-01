@@ -11,9 +11,7 @@
   <br>
     😄 Pronouns: He/Him
   <br>
-    🎓 Florida State University c/o 2022
-  <br>
-    \tB.S. in Computer Science/ Cyber Criminology
+    🎓 Florida State University c/o 2022, B.S. in Computer Science/ Cyber Criminology
   <br>
     📫 E-mail: <a href="mailto: zacharyduncan@gmail.com">zacharyduncan@gmail.com</a>
 </p>
