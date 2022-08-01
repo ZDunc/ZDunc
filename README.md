@@ -13,7 +13,7 @@
   <br>
     🎓 Florida State University c/o 2022
   <br>
-    B.S. in Computer Science/ Cyber Criminology
+    \tB.S. in Computer Science/ Cyber Criminology
   <br>
     📫 E-mail: <a href="mailto: zacharyduncan@gmail.com">zacharyduncan@gmail.com</a>
 </p>
