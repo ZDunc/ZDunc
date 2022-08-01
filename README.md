@@ -7,7 +7,7 @@
 <p align="center">
   Hello! My name is Zach Duncan. I am a software engineer based in New York, NY.
 </p>
-<p align="right">
+<p align="left">
   <br>
     😄 Pronouns: He/Him
   <br>
