@@ -1,26 +1,25 @@
-<h5 align="center">
+<h5 align="right">
   <code>
-    <a href="https://linkedin.com/in/zachary-a-duncan/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://linkedin.com/in/zachary-a-duncan/" title="LinkedIn Profile"><img width="16" src="images/linkedin.svg"> LinkedIn</a></code>
 
 </h5>
 <br>
 <p align="center">
   Hello! My name is Zach Duncan. I am a software engineer based in New York, NY.
-  <br>
+  <br align="left">
   🎓 Graduated from Florida State University with a Bachelors of Science in Computer Science/ Cyber Criminology
-  <br>
-  📫 To reach me: <a href="mailto: zacharyduncan@gmail.com">zacharyduncan@gmail.com</a>
+  <br align="left">
+  📫 E-mail: <a href="mailto: zacharyduncan@gmail.com">zacharyduncan@gmail.com</a>
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">Languages, Frameworks, and Other Relevant Technologies</h2>
 <br>
 <p align="center">
   <code><img title="C" height="25" src="images/c.svg"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
@@ -34,7 +33,7 @@
 </p>
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">User Statistics</h2>
 <br>
 <p align=center>
   <div align=center>
