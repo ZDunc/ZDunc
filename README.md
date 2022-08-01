@@ -1,4 +1,4 @@
-<h5 align="right">
+<h5 align="left">
   <code>
     <a href="https://linkedin.com/in/zachary-a-duncan/" title="LinkedIn Profile"><img width="16" src="images/linkedin.svg"> LinkedIn</a></code>
 
