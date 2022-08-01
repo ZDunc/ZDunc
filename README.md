@@ -11,7 +11,9 @@
   <br>
     😄 Pronouns: He/Him
   <br>
-    🎓 I graduated from Florida State University with a Bachelors of Science in Computer Science/ Cyber Criminology
+    🎓 I graduated from Florida State University
+  <br>
+    B.S. in Computer Science/ Cyber Criminology
   <br>
     📫 E-mail: <a href="mailto: zacharyduncan@gmail.com">zacharyduncan@gmail.com</a>
 </p>
