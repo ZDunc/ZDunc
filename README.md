@@ -7,7 +7,7 @@
 <p align="center">
   Hello! My name is Zach Duncan. I am a software engineer based in New York, NY.
   <br align="left">
-  🎓 Graduated from Florida State University with a Bachelors of Science in Computer Science/ Cyber Criminology
+  🎓 I graduated from Florida State University with a Bachelors of Science in Computer Science/ Cyber Criminology
   <br align="left">
   📫 E-mail: <a href="mailto: zacharyduncan@gmail.com">zacharyduncan@gmail.com</a>
 </p>
