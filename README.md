@@ -7,15 +7,18 @@
 <p align="center">
   Hello! My name is Zach Duncan. I am a software engineer based in New York, NY.
   <br align="left">
-  🎓 I graduated from Florida State University with a Bachelors of Science in Computer Science/ Cyber Criminology
+    😄 Pronouns: He/Him
   <br align="left">
-  📫 E-mail: <a href="mailto: zacharyduncan@gmail.com">zacharyduncan@gmail.com</a>
+    🎓 I graduated from Florida State University with a Bachelors of Science in Computer Science/ Cyber Criminology
+  <br align="left">
+    📫 E-mail: <a href="mailto: zacharyduncan@gmail.com">zacharyduncan@gmail.com</a>
 </p>
 
 <hr>
 <h2 align="center">Languages, Frameworks, and Other Relevant Technologies</h2>
 <br>
 <p align="center">
+  <code><img title="Java" height="35" src="images/java-original.svg"></code>
   <code><img title="C" height="35" src="images/c.svg"></code>
   <code><img title="C++" height="35" src="images/cpp.svg"></code>
   <code><img title="Python" height="35" src="images/python-original.svg"></code>
@@ -26,7 +29,6 @@
   <code><img title="Visual Studio Code" height="35" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="35" src="images/visualstudio.png"></code>
   <code><img title="JQuery" height="23" src="images/jquery-original.svg"></code>
-  <code><img title="Java" height="35" src="images/java-original.svg"></code>
   <code><img title="JSON" height="35" src="images/json.svg"></code>
   <code><img title="GitHub" height="35" src="images/github.svg"></code>
   <code><img title="MySQL" height="35" src="images/mysql.svg"></code>
