@@ -11,7 +11,7 @@
   <br>
     😄 Pronouns: He/Him
   <br>
-    🎓 I graduated from Florida State University
+    🎓 Florida State University c/o 2022
   <br>
     B.S. in Computer Science/ Cyber Criminology
   <br>
