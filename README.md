@@ -4,8 +4,10 @@
 
 </h5>
 <br>
-<p align="lect">
+<p align="center">
   Hello! My name is Zach Duncan. I am a software engineer based in New York, NY.
+</p>
+<p align="right">
   <br>
     😄 Pronouns: He/Him
   <br>
