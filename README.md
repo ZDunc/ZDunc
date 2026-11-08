@@ -14,9 +14,9 @@
 
 ## About
 
-I'm a software engineer focused on building polished, data-heavy web applications with React and TypeScript. My work spans frontend architecture, complex UI workflows, performance optimization, and full-stack development with C#/.NET and SQL.
+I'm a software engineer who enjoys building thoughtful, well-crafted products and solving technically interesting problems across the stack. My experience includes frontend architecture, complex UI workflows, performance optimization, API integration, and full-stack development with React, TypeScript, C#/.NET, and SQL.
 
-I enjoy problems where thoughtful engineering and good interface design meet, particularly products that require users to understand and act on a lot of information quickly.
+I'm especially drawn to work that combines strong engineering judgment with meaningful product problems, whether that means designing intuitive interfaces, improving system performance, or building tools that help people understand and act on complex information.
 
 ## Current Stack
 
