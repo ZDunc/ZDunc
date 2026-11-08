@@ -33,6 +33,8 @@ Git · Vite · Jest · React Testing Library · CI/CD · Responsive UI · Perfor
 
 ### [Fixed Income Auction Dashboard](https://github.com/ZDunc/fixed-income-auction-dashboard)
 
+[Live Demo](https://fixed-income-auction-dashboard-weld.vercel.app/) · [Repository](https://github.com/ZDunc/fixed-income-auction-dashboard)
+
 A responsive fixed income trading interface built with React, TypeScript, Material UI, and AG Grid.
 
 The application combines auction analytics, filtering, lifecycle-aware status, search, sorting, pagination, responsive layouts, and a virtualized data grid within a compact trading-workstation design.
